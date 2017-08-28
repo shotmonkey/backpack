@@ -100,7 +100,7 @@ class BpkCalendarDate extends PureComponent {
         aria-label={date.getDate()}
         disabled={isBlocked}
         tabIndex={(isKeyboardFocusable && isFocused) ? '0' : '-1'}
-        onClick={() => { if (onClick) { onClick(date); } }}
+        onMouseDown={() => { if (onClick) { onClick(date); } }}
         onKeyDown={onDateKeyDown}
         aria-pressed={isSelected}
         ref={this.getButtonRef}
