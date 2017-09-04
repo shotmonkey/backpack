@@ -70,6 +70,7 @@ class BpkCalendarDate extends PureComponent {
       date,
       modifiers,
       onClick,
+      onFocus,
       onDateKeyDown,
       isFocused,
       isSelected,
@@ -101,6 +102,7 @@ class BpkCalendarDate extends PureComponent {
         disabled={isBlocked}
         tabIndex={(isKeyboardFocusable && isFocused) ? '0' : '-1'}
         onClick={() => { if (onClick) { onClick(date); } }}
+        onFocus={(e) => { if (onFocus) { onFocus(e, { date }); } }}
         onKeyDown={onDateKeyDown}
         aria-pressed={isSelected}
         ref={this.getButtonRef}
@@ -122,6 +124,7 @@ BpkCalendarDate.propTypes = {
   isToday: PropTypes.bool,
   modifiers: CustomPropTypes.DateModifiers,
   onClick: PropTypes.func,
+  onFocus: PropTypes.func,
   onDateKeyDown: PropTypes.func,
   preventKeyboardFocus: PropTypes.bool,
 };
@@ -135,6 +138,7 @@ BpkCalendarDate.defaultProps = {
   isToday: false,
   modifiers: {},
   onClick: null,
+  onFocus: null,
   onDateKeyDown: null,
   preventKeyboardFocus: true,
 };

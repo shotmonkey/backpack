@@ -57,6 +57,7 @@ class Week extends Component {
       'markOutsideDays',
       'markToday',
       'onDateClick',
+      'onDateFocus',
       'onDateKeyDown',
       'preventKeyboardFocus',
       'showWeekendSeparator',
@@ -101,6 +102,7 @@ class Week extends Component {
       minDate,
       month,
       onDateClick,
+      onDateFocus,
       onDateKeyDown,
       preventKeyboardFocus,
       selectedDate,
@@ -124,6 +126,7 @@ class Week extends Component {
             modifiers={dateModifiers}
             aria-label={formatDateFull(date)}
             onClick={onDateClick}
+            onFocus={onDateFocus}
             onDateKeyDown={onDateKeyDown}
             preventKeyboardFocus={preventKeyboardFocus}
             isKeyboardFocusable={isKeyboardFocusable}
@@ -157,6 +160,7 @@ Week.propTypes = {
   maxDate: PropTypes.instanceOf(Date),
   minDate: PropTypes.instanceOf(Date),
   onDateClick: PropTypes.func,
+  onDateFocus: PropTypes.func,
   onDateKeyDown: PropTypes.func,
   selectedDate: PropTypes.instanceOf(Date),
 };
@@ -166,6 +170,7 @@ Week.defaultProps = {
   maxDate: null,
   minDate: null,
   onDateClick: null,
+  onDateFocus: null,
   onDateKeyDown: null,
   selectedDate: null,
 };

@@ -102,6 +102,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -122,6 +123,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -142,6 +144,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -162,6 +165,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -182,6 +186,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -202,6 +207,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -222,6 +228,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -246,6 +253,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -266,6 +274,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -286,6 +295,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -306,6 +316,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -326,6 +337,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -346,6 +358,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -366,6 +379,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -390,6 +404,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -410,6 +425,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -430,6 +446,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -450,6 +467,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -470,6 +488,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -490,6 +509,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -510,6 +530,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -534,6 +555,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -554,6 +576,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -574,6 +597,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -594,6 +618,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -614,6 +639,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -634,6 +660,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -654,6 +681,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -678,6 +706,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -698,6 +727,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -718,6 +748,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -738,6 +769,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -758,6 +790,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -778,6 +811,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -798,6 +832,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -822,6 +857,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -842,6 +878,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -862,6 +899,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -882,6 +920,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -902,6 +941,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -922,6 +962,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -942,6 +983,7 @@ exports[`BpkCalendarGrid should render correctly with "showWeekendSeparator" att
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1060,6 +1102,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1080,6 +1123,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1100,6 +1144,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1120,6 +1165,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1140,6 +1186,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1160,6 +1207,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1180,6 +1228,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1204,6 +1253,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1224,6 +1274,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1244,6 +1295,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1264,6 +1316,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1284,6 +1337,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1304,6 +1358,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1324,6 +1379,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1348,6 +1404,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1368,6 +1425,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1388,6 +1446,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1408,6 +1467,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1428,6 +1488,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1448,6 +1509,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1468,6 +1530,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1492,6 +1555,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1512,6 +1576,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1532,6 +1597,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1552,6 +1618,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1572,6 +1639,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1592,6 +1660,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1612,6 +1681,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1636,6 +1706,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1656,6 +1727,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1676,6 +1748,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1696,6 +1769,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1716,6 +1790,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1736,6 +1811,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1756,6 +1832,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1780,6 +1857,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1800,6 +1878,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1820,6 +1899,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1840,6 +1920,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1860,6 +1941,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1880,6 +1962,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -1900,6 +1983,7 @@ exports[`BpkCalendarGrid should render correctly with a "dateModifiers" attribut
           className="bpk-calendar-date bpk-calendar-date--modifier-someClass bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2766,6 +2850,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2786,6 +2871,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2806,6 +2892,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2826,6 +2913,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2846,6 +2934,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2866,6 +2955,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2886,6 +2976,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2910,6 +3001,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2930,6 +3022,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2950,6 +3043,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2970,6 +3064,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -2990,6 +3085,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3010,6 +3106,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3030,6 +3127,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3054,6 +3152,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3074,6 +3173,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3094,6 +3194,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3114,6 +3215,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3134,6 +3236,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3154,6 +3257,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3174,6 +3278,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3198,6 +3303,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3218,6 +3324,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3238,6 +3345,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3258,6 +3366,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3278,6 +3387,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3298,6 +3408,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3318,6 +3429,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3342,6 +3454,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3362,6 +3475,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3382,6 +3496,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3402,6 +3517,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3422,6 +3538,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3442,6 +3559,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3462,6 +3580,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3486,6 +3605,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3506,6 +3626,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3526,6 +3647,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3546,6 +3668,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3566,6 +3689,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3586,6 +3710,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
@@ -3606,6 +3731,7 @@ exports[`BpkCalendarGrid should render correctly with a different "weekStartsOn"
           className="bpk-calendar-date bpk-calendar-date--outside"
           disabled={false}
           onClick={[Function]}
+          onFocus={[Function]}
           onKeyDown={null}
           tabIndex="-1"
           type="button"
