@@ -2,7 +2,9 @@
 
 ## UNRELEASED
 
-_Nothing yet..._
+**Added:**
+- react-native-bpk-component-input:
+  - New component, see http://backpack.prod.aws.skyscnr.com/components/native/input
 
 ## 2017-09-12 - New React Native Text component
 
