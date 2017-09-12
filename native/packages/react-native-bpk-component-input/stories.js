@@ -1,19 +1,22 @@
 import React from 'react';
-import { StyleSheet, View, Dimensions } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 
 import { storiesOf } from '@storybook/react-native';
-import { colorBlue500 } from 'bpk-tokens/tokens/ios/base.react.native.es6';
 
 import BpkInput from '../../packages/react-native-bpk-component-input';
 
 const styles = StyleSheet.create({
-  blueInput: {
-    color: colorBlue500,
-  },
   centered: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  container: {
+    flex: 1,
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+    padding: 12,
+    width: '100%',
   },
 });
 
@@ -25,13 +28,7 @@ storiesOf('BpkInput', module)
   )
   .add('Default', () => (
     <View
-      style={{
-        flex: 1,
-        flexDirection: 'column',
-        justifyContent: 'space-between',
-        padding: 12,
-        width: '100%',
-      }}
+      style={styles.container}
     >
       <BpkInput
         placeholderText={'placeholder'}

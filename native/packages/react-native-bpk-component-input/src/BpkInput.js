@@ -52,6 +52,7 @@ const styles = StyleSheet.create({
     padding: spacingSm * 3,
     flexDirection: 'row',
     height: 48,
+    width: 'auto',
   },
   text: {
     fontSize: textLgFontSize,

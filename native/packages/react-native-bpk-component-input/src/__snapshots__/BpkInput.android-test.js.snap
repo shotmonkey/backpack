@@ -11,6 +11,7 @@ exports[`Android BpkInput should render correctly 1`] = `
         "flexDirection": "row",
         "height": 48,
         "padding": 12,
+        "width": "auto",
       },
     ]
   }
@@ -25,7 +26,9 @@ exports[`Android BpkInput should render correctly 1`] = `
         Object {
           "color": "rgb(82, 76, 97)",
           "flex": 1,
+          "fontFamily": "sans-serif-medium",
           "fontSize": 16,
+          "fontWeight": undefined,
           "width": "auto",
         },
       ]
