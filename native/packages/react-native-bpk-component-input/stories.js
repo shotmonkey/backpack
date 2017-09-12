@@ -17,8 +17,6 @@ const styles = StyleSheet.create({
   },
 });
 
-const width = Dimensions.get('window').width - 24;
-
 storiesOf('BpkInput', module)
   .addDecorator(getStory =>
     <View style={styles.centered}>
@@ -26,38 +24,40 @@ storiesOf('BpkInput', module)
     </View>,
   )
   .add('Default', () => (
-    <View>
+    <View
+      style={{
+        flex: 1,
+        flexDirection: 'column',
+        justifyContent: 'space-between',
+        padding: 12,
+        width: '100%',
+      }}
+    >
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         placeholderText={'placeholder'}
         text={'Large'}
       />
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         small
         placeholderText={'placeholder'}
         text={'Small'}
       />
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         small
         placeholderText={'valid'}
         text={'Valid'}
         valid
       />
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         placeholderText={'valid'}
         text={'Invalid'}
         valid={false}
       />
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         placeholderText={'Large placeholder'}
         text={''}
       />
       <BpkInput
-        style={{ width, marginBottom: 12 }}
         disabled
         small
         placeholderText={'placeholder'}
@@ -65,14 +65,12 @@ storiesOf('BpkInput', module)
       />
       <BpkInput
         small
-        style={{ width, marginBottom: 12 }}
         secureTextEntry
         placeholderText={'password'}
         text={'password'}
       />
       <BpkInput
         small
-        style={{ width, marginBottom: 12 }}
         keyboardType={'phone-pad'}
         placeholderText={'Phone number'}
         text={''}
