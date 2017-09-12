@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
 });
 
 const BpkInput = (props) => {
-  const { small, valid, text, disabled, style: innerStyle, ...rest } = props;
+  const { small, valid, value, disabled, style: innerStyle, ...rest } = props;
 
   let iconSource = null;
 
@@ -104,7 +104,7 @@ const BpkInput = (props) => {
   if (disabled) {
     textStyle.push(styles.disabledText);
   }
-  if (text === '') {
+  if (value === '') {
     textStyle.push(styles.placeholderText);
   }
   if (valid !== null) {
@@ -129,7 +129,7 @@ const BpkInput = (props) => {
         placeholderTextColor={colorGray300}
         style={textStyle}
         editable={!disabled}
-        value={text}
+        value={value}
         {...rest}
       />
       {iconSource &&
@@ -145,9 +145,9 @@ const BpkInput = (props) => {
 BpkInput.propTypes = {
   disabled: PropTypes.bool,
   small: PropTypes.bool,
+  style: TextInput.propTypes.style,
   valid: PropTypes.bool,
-  style: PropTypes.object, // eslint-disable-line react/forbid-prop-types
-  text: PropTypes.string.isRequired,
+  value: PropTypes.string.isRequired,
 };
 
 BpkInput.defaultProps = {

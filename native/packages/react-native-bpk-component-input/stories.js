@@ -24,54 +24,54 @@ storiesOf('BpkInput', module)
   .add('Default', () => (
     <BpkInput
       placeholder={'placeholder'}
-      text={'Large'}
+      value={'Large'}
     />
     ))
-      .add('Small', () => (
-        <BpkInput
-          small
-          placeholder={'placeholder'}
-          text={'Small'}
-        />
-    ))
-      .add('Valid', () => (
-        <BpkInput
-          placeholder={'valid'}
-          text={'Valid'}
-          valid
-        />
-    ))
-      .add('Invalid', () => (
-        <BpkInput
-          placeholder={'valid'}
-          text={'Invalid'}
-          valid={false}
-        />
-    ))
-      .add('Placeholder', () => (
-        <BpkInput
-          placeholder={'Large placeholder'}
-          text={''}
-        />
-    ))
-      .add('Disabled', () => (
-        <BpkInput
-          disabled
-          placeholder={'placeholder'}
-          text={'disabled'}
-        />
-    ))
-      .add('Password', () => (
-        <BpkInput
-          secureTextEntry
-          placeholder={'password'}
-          text={'password'}
-        />
-    ))
-      .add('Phone', () => (
-        <BpkInput
-          keyboardType={'phone-pad'}
-          placeholder={'Phone number'}
-          text={''}
-        />
-    ));
+    .add('Small', () => (
+      <BpkInput
+        small
+        placeholder={'placeholder'}
+        value={'Small'}
+      />
+  ))
+    .add('Valid', () => (
+      <BpkInput
+        placeholder={'valid'}
+        value={'Valid'}
+        valid
+      />
+  ))
+    .add('Invalid', () => (
+      <BpkInput
+        placeholder={'valid'}
+        value={'Invalid'}
+        valid={false}
+      />
+  ))
+    .add('Placeholder', () => (
+      <BpkInput
+        placeholder={'Large placeholder'}
+        value={''}
+      />
+  ))
+    .add('Disabled', () => (
+      <BpkInput
+        disabled
+        placeholder={'placeholder'}
+        value={'disabled'}
+      />
+  ))
+    .add('Password', () => (
+      <BpkInput
+        secureTextEntry
+        placeholder={'password'}
+        value={'password'}
+      />
+  ))
+    .add('Phone', () => (
+      <BpkInput
+        keyboardType={'phone-pad'}
+        placeholder={'Phone number'}
+        value={''}
+      />
+  ));

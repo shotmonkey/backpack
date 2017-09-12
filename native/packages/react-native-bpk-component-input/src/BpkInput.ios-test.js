@@ -26,7 +26,7 @@ describe('iOS', () => {
   describe('BpkInput', () => {
     it('should render correctly', () => {
       const tree = renderer.create(
-        <BpkInput text={'Input_text'} />,
+        <BpkInput value={'Input_text'} />,
       ).toJSON();
       expect(tree).toMatchSnapshot();
     });
@@ -34,7 +34,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={''}
+          value={''}
         />,
       ).toJSON();
       expect(tree).toMatchSnapshot();
@@ -43,7 +43,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           small
         />,
       ).toJSON();
@@ -53,7 +53,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={''}
+          value={''}
           small
         />,
       ).toJSON();
@@ -63,7 +63,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           valid
         />,
       ).toJSON();
@@ -73,7 +73,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           valid
           small
         />,
@@ -84,7 +84,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           valid={false}
         />,
       ).toJSON();
@@ -94,7 +94,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           valid={false}
           small
         />,
@@ -105,7 +105,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           disabled
         />,
       ).toJSON();
@@ -115,7 +115,7 @@ describe('iOS', () => {
       const tree = renderer.create(
         <BpkInput
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
           disabled
           small
         />,
@@ -127,7 +127,7 @@ describe('iOS', () => {
         <BpkInput
           style={{ width: 200, backgroundColor: 'blue' }}
           placeholder={'placeholder_text'}
-          text={'Input_text'}
+          value={'Input_text'}
         />,
       ).toJSON();
       expect(tree).toMatchSnapshot();
