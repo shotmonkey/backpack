@@ -22,22 +22,113 @@ import renderer from 'react-test-renderer';
 
 import BpkInput from './BpkInput';
 
-jest.mock('react-native', () => {
-  const reactNative = require.requireActual('react-native');
-  jest
-    .spyOn(reactNative.Platform, 'select')
-    .mockImplementation(obj => obj.ios || obj.default);
-  reactNative.Platform.OS = 'ios';
-
-  return reactNative;
-});
-
-
 describe('iOS', () => {
   describe('BpkInput', () => {
     it('should render correctly', () => {
       const tree = renderer.create(
-        <BpkInput />,
+        <BpkInput text={'Input_text'} />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render placeholder correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={''}
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render small correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          small
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render small placeholder correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={''}
+          small
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render valid correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          valid
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render small valid correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          valid
+          small
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render invalid correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          valid={false}
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render small invalid correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          valid={false}
+          small
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render disabled correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          disabled
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should render small disabled correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+          disabled
+          small
+        />,
+      ).toJSON();
+      expect(tree).toMatchSnapshot();
+    });
+    it('should apply user-styling correctly', () => {
+      const tree = renderer.create(
+        <BpkInput
+          style={{ width: 200, backgroundColor: 'blue' }}
+          placeholder={'placeholder_text'}
+          text={'Input_text'}
+        />,
       ).toJSON();
       expect(tree).toMatchSnapshot();
     });

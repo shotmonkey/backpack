@@ -14,9 +14,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: 'column',
-    justifyContent: 'space-between',
+    // justifyContent: 'space-between',
     padding: 12,
     width: '100%',
+  },
+  input: {
+    marginBottom: 12,
   },
 });
 
@@ -31,45 +34,53 @@ storiesOf('BpkInput', module)
       style={styles.container}
     >
       <BpkInput
-        placeholderText={'placeholder'}
+        style={styles.input}
+        placeholder={'placeholder'}
         text={'Large'}
       />
       <BpkInput
+        style={styles.input}
         small
-        placeholderText={'placeholder'}
+        placeholder={'placeholder'}
         text={'Small'}
       />
       <BpkInput
+        style={styles.input}
         small
-        placeholderText={'valid'}
+        placeholder={'valid'}
         text={'Valid'}
         valid
       />
       <BpkInput
-        placeholderText={'valid'}
+        style={styles.input}
+        placeholder={'valid'}
         text={'Invalid'}
         valid={false}
       />
       <BpkInput
-        placeholderText={'Large placeholder'}
+        style={styles.input}
+        placeholder={'Large placeholder'}
         text={''}
       />
       <BpkInput
+        style={styles.input}
         disabled
         small
-        placeholderText={'placeholder'}
+        placeholder={'placeholder'}
         text={'disabled'}
       />
       <BpkInput
+        style={styles.input}
         small
         secureTextEntry
-        placeholderText={'password'}
+        placeholder={'password'}
         text={'password'}
       />
       <BpkInput
+        style={styles.input}
         small
         keyboardType={'phone-pad'}
-        placeholderText={'Phone number'}
+        placeholder={'Phone number'}
         text={''}
       />
     </View>
