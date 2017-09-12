@@ -25,6 +25,7 @@ export default class App extends Component {
           style={styles.input}
           placeholder={'placeholder'}
           value={'Large'}
+          clearButtonMode={'while-editing'}
         />
         <BpkInput
           style={styles.input}

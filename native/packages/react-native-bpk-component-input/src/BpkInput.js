@@ -41,7 +41,9 @@ const {
   spacingMd,
   spacingSm,
   textLgFontSize,
+  textLgFontWeight,
   textXsFontSize,
+  textXsFontWeight,
 } = tokens;
 
 const styles = StyleSheet.create({
@@ -59,7 +61,7 @@ const styles = StyleSheet.create({
     color: colorGray700,
     width: 'auto',
     flex: 1,
-    fontWeight: Platform.OS === 'ios' ? tokens.textLgFontWeight : undefined,
+    fontWeight: Platform.OS === 'ios' ? textLgFontWeight : undefined,
     fontFamily: Platform.OS === 'android' ? 'sans-serif-medium' : 'System',
   },
   smallInput: {
@@ -68,7 +70,7 @@ const styles = StyleSheet.create({
   },
   smallText: {
     fontSize: textXsFontSize,
-    fontWeight: Platform.OS === 'ios' ? tokens.textXsFontWeight : undefined,
+    fontWeight: Platform.OS === 'ios' ? textXsFontWeight : undefined,
     fontFamily: Platform.OS === 'android' ? 'sans-serif' : 'System',
   },
   placeholderText: {

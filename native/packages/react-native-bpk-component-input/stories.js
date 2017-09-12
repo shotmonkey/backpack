@@ -26,52 +26,59 @@ storiesOf('BpkInput', module)
       placeholder={'placeholder'}
       value={'Large'}
     />
-    ))
-    .add('Small', () => (
-      <BpkInput
-        small
-        placeholder={'placeholder'}
-        value={'Small'}
-      />
   ))
-    .add('Valid', () => (
-      <BpkInput
-        placeholder={'valid'}
-        value={'Valid'}
-        valid
-      />
+  .add('Default', () => (
+    <BpkInput
+      placeholder={'placeholder'}
+      value={'Large'}
+    />
   ))
-    .add('Invalid', () => (
-      <BpkInput
-        placeholder={'valid'}
-        value={'Invalid'}
-        valid={false}
-      />
+  .add('With Clear Button', () => (
+    <BpkInput
+      small
+      placeholder={'placeholder'}
+      value={'Edit me!'}
+      clearButtonMode={'while-editing'}
+    />
   ))
-    .add('Placeholder', () => (
-      <BpkInput
-        placeholder={'Large placeholder'}
-        value={''}
-      />
+  .add('Valid', () => (
+    <BpkInput
+      placeholder={'valid'}
+      value={'Valid'}
+      valid
+    />
   ))
-    .add('Disabled', () => (
-      <BpkInput
-        disabled
-        placeholder={'placeholder'}
-        value={'disabled'}
-      />
+  .add('Invalid', () => (
+    <BpkInput
+      placeholder={'valid'}
+      value={'Invalid'}
+      valid={false}
+    />
   ))
-    .add('Password', () => (
-      <BpkInput
-        secureTextEntry
-        placeholder={'password'}
-        value={'password'}
-      />
+  .add('Placeholder', () => (
+    <BpkInput
+      placeholder={'Large placeholder'}
+      value={''}
+    />
   ))
-    .add('Phone', () => (
-      <BpkInput
-        keyboardType={'phone-pad'}
-        placeholder={'Phone number'}
-        value={''}
-      />
+  .add('Disabled', () => (
+    <BpkInput
+      disabled
+      placeholder={'placeholder'}
+      value={'disabled'}
+    />
+  ))
+  .add('Password', () => (
+    <BpkInput
+      secureTextEntry
+      placeholder={'password'}
+      value={'password'}
+    />
+  ))
+  .add('Phone', () => (
+    <BpkInput
+      keyboardType={'phone-pad'}
+      placeholder={'Phone number'}
+      value={''}
+    />
   ));
