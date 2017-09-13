@@ -25,6 +25,10 @@ import {
 } from 'react-native';
 import React from 'react';
 import PropTypes from 'prop-types';
+import Icon from './IconComponent';
+import Rect from 'react-native-svg'; // disable-eslint
+import Svg from 'react-native-svg'; // import whichever features are used in your SVGs
+import Path from 'react-native-svg'; // import whichever features are used in your SVGs
 
 const IOS_TOKENS = require('bpk-tokens/tokens/ios/base.react.native.common.js');
 const ANDROID_TOKENS = require('bpk-tokens/tokens/android/base.react.native.common.js');
@@ -134,12 +138,9 @@ const BpkInput = (props) => {
         value={value}
         {...rest}
       />
-      {iconSource &&
-        <Image
-          style={iconStyle}
-          source={iconSource}
-        />
-      }
+      <Icon name="SortArrows" fill="#0f0" height="20" width="20" />
+      <Icon name="SortArrows" fill="#0f0" viewBox="0 0 200 200" width="30" />
+      <Icon name="SortArrows" fill="transparent" stroke="#fff" strokeWidth="5" width="30" />
     </View>
   );
 };
